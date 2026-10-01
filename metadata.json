@@ -1,0 +1,6 @@
+{
+  "name": "AuraHealth - Hospital Operations & Precision Diagnostics Operating System",
+  "description": "Production-grade clinical operations, point-of-care edge cytology, RNA-seq genomics, multimodal triage, and predictive hospital surge simulation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
